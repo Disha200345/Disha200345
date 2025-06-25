@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Disha Banerjee</h1>
-<h3 align="center">A prefinal year engineering student who passionate with AI ML technologies</h3>
+<h3 align="center">A final year engineering student who passionate with AI ML technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=disha200345&label=Profile%20views&color=0e75b6&style=flat" alt="disha200345" /> </p>
 
